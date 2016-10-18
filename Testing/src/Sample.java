@@ -7,5 +7,9 @@ public class Sample {
 		System.out.println("Before uploading Git Hub");
 		
 		System.out.println("change 1");
+		
+		System.out.println("change 2");
+		
+	
 	}
 }
